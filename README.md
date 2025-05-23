@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+  <h1 align="center">Hi 👋, I'm <a href="[https://100rabhcsmc.github.io/Me.io/](https://github.com/subhankar19112004" target="blank">
 Subhankar</a></h1>
 <h3 align="center">A passionate Full stack developer from Odisha India 🇮🇳</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="100rabhcsmc"> </p>
