@@ -117,7 +117,7 @@ Designed, developed, and deployed the official production website for CR Cyber C
 
 <p align="center">
   📄 <strong>Resume:</strong>
-  <a href="https://github.com/subhankar19112004/My-Rsume/blob/main/SubhankarJena_Resume.pdf" target="_blank">
+  <a href="https://github.com/subhankar19112004/Resume_Subhankar_jena/blob/main/subhankarjena_Resume.pdf" target="_blank">
     View PDF
   </a>
 </p>
