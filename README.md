@@ -1,183 +1,211 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ========================= PREMIUM HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Subhankar%20Jena&fontSize=45&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Subhankar%20Jena&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=58&animation=fadeIn"/>
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Production-Ready+Applications;Focused+on+Scalable+Web+Architecture;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Production-Ready+Applications;Backend+Architecture+%26+REST+API+Development;Always+Learning+and+Improving" />
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhankar19112004&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/subhankar19112004?label=Followers&style=flat&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/subhankar19112004?affiliations=OWNER&style=flat&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=subhankar19112004&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  
+  <img src="https://img.shields.io/github/followers/subhankar19112004?style=for-the-badge&color=0e75b6" />
+  
+  <img src="https://img.shields.io/github/stars/subhankar19112004?style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+### 🚀 Full Stack MERN Developer
 
 - 🎓 B.Tech in Computer Science (2022 – 2026)
 - 💼 Former IT Engineer at **CR Cyber Crime Foundation**
-- 🚀 Passionate about building scalable Full Stack MERN applications
-- ⚡ Strong focus on Backend Architecture & API Development
-- 🌱 Currently improving system design, DSA, and production-grade development
-- 🎯 Looking for Full Stack / Backend Developer opportunities
-- 💡 Love solving real-world problems through technology
+- ⚡ Specialized in MERN Stack Development
+- 🛠 Building scalable and production-ready applications
+- 🌱 Currently learning:
+  - System Design
+  - Backend Scaling
+  - DSA
+  - Advanced React Patterns
+- 🎯 Looking for:
+  - Full Stack Developer Roles
+  - Backend Developer Roles
+  - MERN Stack Opportunities
 
-### 📫 Contact Me
+---
 
-- 📧 **Email:** subhankarjenaofficial19@gmail.com
-- 💼 **LinkedIn:** www.linkedin.com/in/subhankar-jena-79716a317
-- 🌐 **GitHub:** github.com/subhankar19112004
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:subhankarjenaofficial19@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/subhankar-jena-79716a317/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/subhankar19112004" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@SubhankarJena" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</p>
 
 <br clear="right"/>
 
 ---
 
-# 🔥 Tech Stack & Tools
+# ⚡ Tech Stack
 
-<h3 align="center">Languages, Frameworks, Libraries & Dev Tools</h3>
+<h3 align="center">Languages • Frameworks • Libraries • Tools</h3>
 
 <br>
 
 <p align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,redux,tailwind,docker,git,github,postman,vscode&perline=8" />
 </p>
+
+---
+
+# 🔥 Core Expertise
+
+```txt
+✔ Full Stack MERN Development
+✔ REST API Development
+✔ Authentication & Authorization
+✔ JWT & Secure Backend Architecture
+✔ MongoDB Database Design
+✔ Responsive Frontend UI
+✔ React State Management
+✔ Real-Time Applications
+✔ Production Deployment
+✔ Git & Team Collaboration
+```
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔹 CR Cyber Crime Foundation — Official Production Website
+## 🔹 CR Cyber Crime Foundation — Official Website
 
-🌐 **Live Website:**  
-https://crcybercrime.com/
+🌐 Live Website  
+👉 https://crcybercrime.com/
 
-🛠 **Tech Stack:**  
-React.js • Tailwind CSS • JavaScript • Responsive UI
+🛠 Tech Stack  
+`React.js` `Tailwind CSS` `JavaScript`
 
-📌 **Highlights**
-- Designed and developed production-grade responsive website
-- Optimized performance and accessibility
-- Built modern UI/UX for organization branding
-- Deployed live production application
+✨ Features
+- Fully responsive production website
+- Optimized performance & accessibility
+- Modern UI/UX implementation
+- SEO-friendly structure
 
 ---
 
 ## 🔹 Quickcare — Appointment Booking Platform
 
-💻 **GitHub Repository:**  
-https://github.com/subhankar19112004/Quickcare-Appointment
+💻 GitHub Repository  
+👉 https://github.com/subhankar19112004/Quickcare-Appointment
 
-🛠 **Tech Stack:**  
-React.js • Node.js • Express.js • MongoDB • JWT
+🛠 Tech Stack  
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT`
 
-📌 **Features**
-- Role-based authentication system
-- Doctor/patient/admin dashboards
-- Appointment management APIs
-- Secure JWT authentication
+✨ Features
+- Doctor/Patient/Admin roles
+- Authentication system
+- Appointment management
 - REST API architecture
+- Secure backend implementation
 
 ---
 
 ## 🔹 Work Hour Monitor
 
-💻 **GitHub Repository:**  
-https://github.com/subhankar19112004/Work-Hour-Monitor
+💻 GitHub Repository  
+👉 https://github.com/subhankar19112004/Work-Hour-Monitor
 
-🛠 **Tech Stack:**  
-React.js • Node.js • MongoDB
+🛠 Tech Stack  
+`React.js` `Node.js` `MongoDB`
 
-📌 **Features**
+✨ Features
 - Employee attendance tracking
 - Punch in / punch out system
+- Photo verification
 - Admin dashboard
-- Image verification support
-- Real-time work monitoring
+- Work analytics
 
 ---
 
 ## 🔹 DevTinder — Developer Matchmaking Platform
 
-💻 **GitHub Repository:**  
-https://github.com/subhankar19112004/DevTinder-Fullstack
+💻 GitHub Repository  
+👉 https://github.com/subhankar19112004/DevTinder-Fullstack
 
-🛠 **Tech Stack:**  
-React.js • Express.js • MongoDB • JWT
+🛠 Tech Stack  
+`React.js` `Express.js` `MongoDB` `JWT`
 
-📌 **Features**
-- Authentication & authorization
-- Developer profile system
-- Match recommendation logic
-- Responsive frontend architecture
+✨ Features
+- JWT Authentication
+- Dynamic matching logic
+- User profiles
+- Secure REST APIs
+- Responsive frontend
 
 ---
 
 ## 🔹 Twitter Backend Clone
 
-💻 **GitHub Repository:**  
-https://github.com/subhankar19112004/TwitterBackend
+💻 GitHub Repository  
+👉 https://github.com/subhankar19112004/TwitterBackend
 
-🛠 **Tech Stack:**  
-Node.js • Express.js • MongoDB
+🛠 Tech Stack  
+`Node.js` `Express.js` `MongoDB`
 
-📌 **Features**
+✨ Features
 - Authentication APIs
-- Media upload support
-- Tweet management system
-- Scalable REST architecture
+- Media upload handling
+- Tweet management
+- Scalable backend architecture
 
 ---
 
-## 🔹 CodeSandbox — Real-Time Collaborative Editor
+## 🔹 CodeSandbox — Collaborative Code Editor
 
-💻 **GitHub Repository:**  
-https://github.com/subhankar19112004/CodeSandBox-Fullstack
+💻 GitHub Repository  
+👉 https://github.com/subhankar19112004/CodeSandBox-Fullstack
 
-🛠 **Tech Stack:**  
-React.js • Node.js • WebSockets
+🛠 Tech Stack  
+`React.js` `Node.js` `WebSockets`
 
-📌 **Features**
-- Real-time synchronization
-- Multi-user collaboration
-- Live code editing environment
-- Socket-based architecture
+✨ Features
+- Real-time collaboration
+- Multi-user synchronization
+- Live code editing
+- Socket-based communication
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=subhankar19112004&show_icons=true&theme=transparent&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=subhankar19112004&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=subhankar19112004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=subhankar19112004&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar19112004&layout=compact&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar19112004&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </p>
 
 ---
@@ -185,7 +213,7 @@ React.js • Node.js • WebSockets
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhankar19112004&theme=flat&column=6&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=subhankar19112004&theme=tokyonight&column=6&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -193,31 +221,15 @@ React.js • Node.js • WebSockets
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhankar19112004&theme=github-light&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhankar19112004&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 🐍 Contribution Snake Animation
 
 <p align="center">
-
-<a href="https://github.com/subhankar19112004" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/subhankar-jena-79716a317/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:subhankarjenaofficial19@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@SubhankarJena" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
+  <img src="https://raw.githubusercontent.com/subhankar19112004/subhankar19112004/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -232,6 +244,56 @@ React.js • Node.js • WebSockets
 
 ---
 
+# ⚙ GitHub Snake Setup
+
+Create this file:
+
+```bash
+.github/workflows/snake.yml
+```
+
+Add this:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: subhankar19112004
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+# 💻 Development Philosophy
+
+```txt
+Clean Code • Scalable Architecture • Security First • Performance Focused
+```
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
