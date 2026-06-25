@@ -100,7 +100,7 @@
 ## 🔹 CR Cyber Crime Foundation — Official Website
 
 🌐 Live Website  
-👉 https://crcybercrime.com/
+👉 https://crcybercrime.org/
 
 🛠 Tech Stack  
 `React.js` `Tailwind CSS` `JavaScript`
@@ -113,7 +113,7 @@
 
 ---
 
-## 🔹 Quickcare — Appointment Booking Platform
+## 🔹 HealthSync — Appointment Booking Platform
 
 💻 GitHub Repository  
 👉 https://github.com/subhankar19112004/Quickcare-Appointment
