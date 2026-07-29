@@ -97,22 +97,6 @@
 
 # 🚀 Featured Projects
 
-## 🔹 CR Cyber Crime Foundation — Official Website
-
-🌐 Live Website  
-👉 https://crcybercrime.org/
-
-🛠 Tech Stack  
-`React.js` `Tailwind CSS` `JavaScript`
-
-✨ Features
-- Fully responsive production website
-- Optimized performance & accessibility
-- Modern UI/UX implementation
-- SEO-friendly structure
-
----
-
 ## 🔹 HealthSync — Appointment Booking Platform
 
 💻 GitHub Repository  
