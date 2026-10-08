@@ -244,29 +244,7 @@ A backend-focused project implementing core social media functionality through m
 
 ---
 
-## 💻 CodeSandbox
 
-### Real-Time Collaborative Code Editor
-
-A collaborative coding environment focused on real-time communication and multi-user synchronization.
-
-**Key Features**
-
-- ⚡ Real-time collaboration
-- 👥 Multi-user synchronization
-- 📝 Live code editing
-- 🔄 WebSocket communication
-- 🚀 Real-time updates
-
-**Tech Stack**
-
-`React.js` `Node.js` `Express.js` `WebSockets`
-
-**Repository**
-
-🔗 https://github.com/subhankar19112004/CodeSandBox-Fullstack
-
----
 
 # 📊 GitHub Analytics
 
