@@ -345,7 +345,7 @@ A backend-focused project implementing core social media functionality through m
 
 <div align="center">
 
-<a href="https://github.com/subhankar19112004/Resume_Subhankar_jena/blob/main/subhankarjena_Resume.pdf">
+<a href="https://github.com/subhankar19112004/Resume_Subhankar_jena/blob/main/Subhankar_Jena_Resume.pdf">
 
 <img src="https://img.shields.io/badge/VIEW%20MY%20RESUME-4F46E5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume"/>
 
