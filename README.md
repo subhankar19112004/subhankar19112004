@@ -1,439 +1,289 @@
+
 <!-- =========================================================
-     SUBHANKAR JENA — GITHUB PROFILE README
+     SUBHANKAR JENA | GITHUB PROFILE README
      ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:1E1B4B,100:4F46E5&text=SUBHANKAR%20JENA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=61&animation=fadeIn" width="100%" alt="Subhankar Jena"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:312E81,100:6366F1&text=SUBHANKAR%20JENA&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Subhankar Jena — Full Stack Developer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;REST+APIs+%7C+JWT+%7C+RBAC;Always+Learning+%26+Building" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=818CF8&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;APIs+%7C+Authentication+%7C+Databases" alt="Developer introduction" />
 
 <br/><br/>
 
 <a href="https://github.com/subhankar19112004">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://www.linkedin.com/in/subhankar-jena-79716a317/">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:subhankarjenaofficial19@gmail.com">
-<img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <a href="https://www.youtube.com/@SubhankarJena">
-<img src="https://img.shields.io/badge/YouTube-EF4444?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=subhankar19112004&label=PROFILE%20VIEWS&style=flat-square&color=6366F1" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=subhankar19112004&label=PROFILE+VIEWS&color=6366F1&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+## 👋 About Me
+
+I'm **Subhankar Jena**, a Full Stack Developer passionate about building modern, responsive, and scalable web applications.
+
+I work primarily with the JavaScript ecosystem, developing interactive React interfaces, REST APIs, authentication systems, and database-driven applications.
+
+- 💻 Focused on full-stack and MERN development.
+- ⚛️ Building modern interfaces with React, Next.js, and Tailwind CSS.
+- 🔐 Implementing authentication, authorization, and secure APIs.
+- 🗄️ Working with MongoDB and relational database technologies.
+- 🧠 Improving my skills in DSA, system design, and backend architecture.
+
+> My goal is to turn ideas into clean, reliable, and maintainable software.
+
+## 🛠️ Tech Stack
 
 <div align="center">
-
-### Building things with JavaScript, one commit at a time.
-
-</div>
-
-I'm **Subhankar Jena**, a Full Stack Developer focused on building modern, scalable and production-ready web applications.
-
-I primarily work with the **JavaScript ecosystem**, with a strong focus on React development, backend engineering, REST API design, authentication and database-driven applications.
-
-### My Core Stack
-
-```text
-Frontend       → React.js · Next.js · Redux Toolkit · Tailwind CSS
-Backend        → Node.js · Express.js · REST APIs
-Database       → MongoDB · MySQL
-Security       → JWT · Authentication · Authorization · RBAC
-Tools          → Git · GitHub · Docker · Postman · VS Code
-```
-
-### Currently Learning
-
-`Data Structures & Algorithms` · `System Design` · `Backend Scaling` · `Advanced React` · `Software Architecture`
-
----
-
-# 🧩 What I Build
-
-<table width="100%">
-<tr>
-
-<td width="33%" align="center">
-
-### 🎨 Frontend
-
-Building responsive and interactive interfaces using modern React architecture.
-
-**React**  
-**Next.js**  
-**Redux Toolkit**  
-**Tailwind CSS**
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙️ Backend
-
-Designing secure and maintainable backend systems and REST APIs.
-
-**Node.js**  
-**Express.js**  
-**REST APIs**  
-**JWT / RBAC**
-
-</td>
-
-<td width="33%" align="center">
-
-### 🗄️ Data
-
-Designing database-driven applications with scalable data models.
-
-**MongoDB**  
-**MySQL**  
-**Mongoose**  
-**Database Design**
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🛠️ Technology Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Languages"/>
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="JavaScript, TypeScript, HTML and CSS"/>
 
-### Frontend
+### Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite" alt="Frontend Technologies"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite" alt="React, Next.js, Redux Toolkit, Tailwind CSS and Vite"/>
 
-### Backend & Database
+### Backend & Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Technologies"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma" alt="Node.js, Express, MongoDB, MySQL, PostgreSQL and Prisma"/>
 
 ### Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" alt="Development Tools"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,firebase,vercel,vscode" alt="Git, GitHub, Docker, Postman, Firebase, Vercel and VS Code"/>
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🩺 HealthSync
+### 🎬 Netflix-AI — AI-Powered Movie Discovery
 
-### Healthcare Appointment Booking Platform
+<a href="https://netflicx-ai.web.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-Visit_Application-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix-AI live demo"/>
+</a>
 
-A full-stack healthcare appointment platform built around multiple user roles, secure authentication and appointment management.
+An AI-powered, Netflix-inspired movie discovery application built while following the Namaste React curriculum. It combines movie discovery, global state management, authentication, and AI-assisted search in a cinematic interface.
 
 **Key Features**
 
-- 👨‍⚕️ Doctor / Patient / Admin roles
-- 🔐 JWT authentication
-- 🛡️ Role-Based Access Control
-- 📅 Appointment management
-- 💳 Payment integration
-- 🔌 REST API architecture
-- 📱 Responsive interface
+- 🤖 AI-powered movie search and recommendations.
+- 🔐 Firebase authentication and protected application flows.
+- 🎥 Movie discovery using TMDB data.
+- 🍿 Popular, trending, top-rated, and now-playing collections.
+- ⚛️ Centralized state management with Redux Toolkit.
+- 🌐 Responsive interface with Tailwind CSS.
+- ⏳ Loading states, reusable components, and form validation.
 
-**Tech Stack**
+**Technology Stack**
 
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT`
+`React` `Redux Toolkit` `Tailwind CSS` `Firebase Auth` `TMDB API` `AI API` `Parcel`
 
-**Repository**
-
-🔗 https://github.com/subhankar19112004/Quickcare-Appointment
+**Links:** [Live Application](https://netflicx-ai.web.app/) · [GitHub Profile](https://github.com/subhankar19112004)
 
 ---
 
-## ⏱️ Work Hour Monitor
+### 🩺 HealthSync — Healthcare Appointment Booking
 
-### Employee Attendance & Work Monitoring System
-
-A web application for managing employee attendance, working hours and administrative monitoring.
+A healthcare appointment booking application designed to manage patient appointments, user roles, and payment workflows.
 
 **Key Features**
 
-- 🕐 Punch-in / Punch-out
-- 👥 Employee management
-- 📸 Photo verification
-- 📊 Admin dashboard
-- 📈 Work-hour analytics
-- 🔐 Secure backend APIs
+- 👨‍⚕️ Patient, doctor, and admin role management.
+- 🔐 JWT authentication and role-based access control.
+- 📅 Appointment booking and management.
+- 💳 Razorpay payment integration.
+- 🔌 REST API-based backend architecture.
+- 📱 Responsive application interface.
 
-**Tech Stack**
+**Technology Stack**
 
-`React.js` `Node.js` `Express.js` `MongoDB`
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `Razorpay`
 
-**Repository**
-
-🔗 https://github.com/subhankar19112004/Work-Hour-Monitor
+**Links:** [GitHub Repository](https://github.com/subhankar19112004/Quickcare-Appointment) · [Backend Deployment](https://healthsync-backend-dh8h.onrender.com/)
 
 ---
 
-## 🤝 DevTinder
+### 🤝 DevTinder — Developer Networking Platform
 
-### Developer Networking & Matching Platform
-
-A full-stack platform that enables developers to create profiles, discover other developers and build connections.
+A full-stack networking application that allows developers to create profiles, discover other developers, and manage connection requests.
 
 **Key Features**
 
-- 🔐 JWT authentication
-- 👤 Developer profiles
-- 🤝 Matching system
-- 🔗 Connection management
-- 🔒 Protected APIs
-- 📱 Responsive frontend
+- 👤 Developer profiles and discovery.
+- 🔐 Authentication and protected APIs.
+- 🤝 Connection requests and matching workflows.
+- 🔄 Frontend and backend integration.
+- 🗄️ Database-driven user management.
 
-**Tech Stack**
+**Technology Stack**
 
-`React.js` `Node.js` `Express.js` `MongoDB`
+`React` `Node.js` `Express.js` `MongoDB` `JWT`
 
-**Repository**
-
-🔗 https://github.com/subhankar19112004/DevTinder-Fullstack
+**Repository:** [DevTinder-Fullstack](https://github.com/subhankar19112004/DevTinder-Fullstack)
 
 ---
 
-## 🐦 Twitter Backend
+### ⏱️ Work Hour Monitor — Employee Time Tracking
 
-### Social Media REST API
-
-A backend-focused project implementing core social media functionality through modular REST APIs.
+An employee work-hour monitoring application focused on attendance tracking and administrative visibility.
 
 **Key Features**
 
-- 🔐 Authentication APIs
-- 👤 User management
-- 📝 Tweet management
-- 🖼️ Media upload handling
-- 🔌 RESTful API architecture
-- 🏗️ Modular backend structure
+- 🕐 Punch-in and punch-out workflows.
+- 👥 Employee management.
+- 📸 Photo verification.
+- 📊 Administrative dashboard.
+- 📈 Work-hour tracking and reporting.
 
-**Tech Stack**
+**Technology Stack**
+
+`React` `Node.js` `Express.js` `MongoDB`
+
+**Repository:** [Work-Hour-Monitor](https://github.com/subhankar19112004/Work-Hour-Monitor)
+
+---
+
+### 🐦 Twitter Backend — Social Media REST API
+
+A backend-oriented project implementing core social media functionality through modular API endpoints.
+
+**Key Features**
+
+- 🔐 Authentication endpoints.
+- 👤 User management.
+- 📝 Tweet management.
+- 🖼️ Media upload handling.
+- 🏗️ Modular REST API structure.
+
+**Technology Stack**
 
 `Node.js` `Express.js` `MongoDB`
 
-**Repository**
-
-🔗 https://github.com/subhankar19112004/TwitterBackend
+**Repository:** [TwitterBackend](https://github.com/subhankar19112004/TwitterBackend)
 
 ---
 
-
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhankar19112004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="95%" alt="GitHub Statistics"/>
+<a href="https://github.com/subhankar19112004">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=subhankar19112004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+</a>
 
-</div>
+<a href="https://github.com/subhankar19112004">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar19112004&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<div align="center">
+<img src="https://streak-stats.demolab.com/?user=subhankar19112004&theme=tokyonight&hide_border=true" width="100%" alt="GitHub contribution streak"/>
 
-<img src="https://streak-stats.demolab.com/?user=subhankar19112004&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak"/>
+<br/><br/>
 
-</div>
-
----
-
-# 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar19112004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="80%" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhankar19112004&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+## 🎯 Current Focus
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhankar19112004&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/subhankar19112004/subhankar19112004/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-<table width="100%">
+<table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 📚 Computer Science
 
 - Data Structures & Algorithms
-- Problem Solving
-- JavaScript Internals
-- System Design
-- Software Architecture
+- Problem-solving patterns
+- JavaScript internals
+- System design fundamentals
+- Software architecture
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🚀 Engineering
 
-- Advanced React Patterns
-- Backend Scalability
-- API Architecture
-- Authentication Systems
-- Production Deployment
+- Advanced React patterns
+- Next.js application development
+- Scalable REST APIs
+- Secure authentication systems
+- Docker and deployment workflows
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🧠 Engineering Principles
+## 🧠 Engineering Principles
 
-| Principle | What It Means |
-|:---:|:---|
-| 🧹 **Clean Code** | Readable, modular and maintainable code |
-| 🔐 **Security First** | Secure authentication and protected APIs |
-| 📐 **Good Architecture** | Separation of concerns and scalable design |
-| ⚡ **Performance** | Efficient rendering and API operations |
-| 🧪 **Reliability** | Validation, error handling and predictable behavior |
-| 📈 **Scalability** | Building systems that can evolve with requirements |
+| Principle | Approach |
+|---|---|
+| 🧹 Clean Code | Readable, reusable, maintainable components |
+| 🔐 Security | Validated inputs and protected endpoints |
+| 🏗️ Architecture | Separation of concerns and modular design |
+| ⚡ Performance | Efficient rendering and API usage |
+| 🛡️ Reliability | Consistent error handling and validation |
+| 📈 Scalability | Maintainable systems that evolve with requirements |
 
 ---
 
-# 📄 Resume
+## 📄 Resume
 
 <div align="center">
 
 <a href="https://github.com/subhankar19112004/Resume_Subhankar_jena/blob/main/Subhankar_Jena_Resume.pdf">
-
-<img src="https://img.shields.io/badge/VIEW%20MY%20RESUME-4F46E5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume"/>
-
+  <img src="https://img.shields.io/badge/View_My_Resume-4F46E5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View resume"/>
 </a>
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-### Open to Full Stack, MERN and Backend Development opportunities.
+### Open to Full Stack, MERN, React, and Backend Development opportunities.
 
 <br/>
 
 <a href="mailto:subhankarjenaofficial19@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
 </a>
-
 <a href="https://www.linkedin.com/in/subhankar-jena-79716a317/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
 </a>
 
 <br/><br/>
 
-**Full Stack Development · React · Node.js · Backend Engineering**
+**Build thoughtfully. Learn continuously. Improve relentlessly.**
 
 </div>
 
----
-
-# ⚙️ GitHub Snake Workflow
-
-The contribution snake above is generated automatically through GitHub Actions.
-
-Create:
-
-```text
-.github/workflows/snake.yml
-```
-
-Add:
-
-```yaml
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: subhankar19112004
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          build_dir: dist
-          target_branch: output
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0B1120,50:1E1B4B,100:4F46E5" width="100%" alt="Footer"/>
-
-### ⭐ Thanks for visiting my profile!
-
-**Build → Learn → Improve → Repeat**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:312E81,100:6366F1" width="100%" alt="Profile footer"/>
 
 </div>
