@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:312E81,100:6366F1&text=SUBHANKAR%20JENA&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Subhankar Jena — Full Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:312E81,100:6366F1&text=SUBHANKAR%20JENA&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Subhankar Jena — AI PoweredFull Stack Developer and Software Engineer" />
 
 <br/>
 
